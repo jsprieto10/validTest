@@ -23,3 +23,6 @@ Aunque en el enunciado se describe un html básico, se decidió realizar un siti
 1. Se desplegó el sitio web de producción generado por React Production en firebase https://golden-frame-140905.firebaseapp.com/
 2. Se intento crear una interfaz similar a la página web institucional [Ver](https://valid.com/es/)
 
+
+## Nota
+Es posible que probando la aplicación en el servidor de firebase se demore un rato cuando se abre por primera vez pues el servidor de heroku se pone en estado sleep cuando lleva mucho tiempo sin usar así que al realizar de nuevo una petición tiene que encender de nuevo y se puede demorar.
