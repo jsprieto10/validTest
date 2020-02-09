@@ -2,8 +2,8 @@
 # Prueba técnica de Valid por Juan Sebastian Prieto
 
 Los proyectos se dividen en dos, a continuación se encuentran los links
-[Backend](https://github.com/jsprieto10/backend)
-[Frontend](https://github.com/jsprieto10/frontend)
+1. [Backend](https://github.com/jsprieto10/backend)
+2. [Frontend](https://github.com/jsprieto10/frontend)
 
 ## Backend
 En primer lugar para el backend se usó Spring boot 2, se agregaron las librerías web, h2 y jpa para el manejo de base de datos con un ORM.
